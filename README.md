@@ -1,4 +1,4 @@
-# restapi-slim-project
+# Rest Api using Slim Framework
 
 small project to test REST API using [https://paw.cloud/] as API tool.
 
