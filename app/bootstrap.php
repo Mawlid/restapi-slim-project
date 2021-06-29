@@ -8,7 +8,6 @@ require_once './vendor/autoload.php';
 $container = new \Slim\Container;
 
 $container['db'] = function () {
-    // set db connection
     return 'db';
 };
 
